@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/XILINIX/amba_ahb/top_bus.xst" -ofn "D:/XILINIX/amba_ahb/top_bus.syr" 

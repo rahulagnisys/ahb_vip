@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "E:/@RINKU@/m  STUDY MAT/VLSI/VERILOG/# SV and UVM CODING BY RAVI/naveen coding/amba_ahb/test_sh_isim_beh.exe" -prj "E:/@RINKU@/m  STUDY MAT/VLSI/VERILOG/# SV and UVM CODING BY RAVI/naveen coding/amba_ahb/test_sh_beh.prj" "work.test_sh" "work.glbl" 

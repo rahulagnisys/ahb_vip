@@ -1,0 +1,47 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o E:/@RINKU@/m  STUDY MAT/VLSI/VERILOG/# SV and UVM CODING BY RAVI/naveen coding/amba_ahb/test_sh_isim_beh.exe -prj E:/@RINKU@/m  STUDY MAT/VLSI/VERILOG/# SV and UVM CODING BY RAVI/naveen coding/amba_ahb/test_sh_beh.prj work.test_sh work.glbl 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/@RINKU@/m  STUDY MAT/VLSI/VERILOG/# SV and UVM CODING BY RAVI/naveen coding/amba_ahb/lfsr1.v" into library work
+Analyzing Verilog file "E:/@RINKU@/m  STUDY MAT/VLSI/VERILOG/# SV and UVM CODING BY RAVI/naveen coding/amba_ahb/ticket_manager.v" into library work
+Analyzing Verilog file "E:/@RINKU@/m  STUDY MAT/VLSI/VERILOG/# SV and UVM CODING BY RAVI/naveen coding/amba_ahb/random_no_gen.v" into library work
+Analyzing Verilog file "E:/@RINKU@/m  STUDY MAT/VLSI/VERILOG/# SV and UVM CODING BY RAVI/naveen coding/amba_ahb/lottery_manager.v" into library work
+Analyzing Verilog file "E:/@RINKU@/m  STUDY MAT/VLSI/VERILOG/# SV and UVM CODING BY RAVI/naveen coding/amba_ahb/comparator_gen.v" into library work
+Analyzing Verilog file "E:/@RINKU@/m  STUDY MAT/VLSI/VERILOG/# SV and UVM CODING BY RAVI/naveen coding/amba_ahb/arbiter.v" into library work
+Analyzing Verilog file "E:/@RINKU@/m  STUDY MAT/VLSI/VERILOG/# SV and UVM CODING BY RAVI/naveen coding/amba_ahb/hd_calcu_4m.v" into library work
+Analyzing Verilog file "E:/@RINKU@/m  STUDY MAT/VLSI/VERILOG/# SV and UVM CODING BY RAVI/naveen coding/amba_ahb/fuzzy_arbiter_him.v" into library work
+Analyzing Verilog file "E:/@RINKU@/m  STUDY MAT/VLSI/VERILOG/# SV and UVM CODING BY RAVI/naveen coding/amba_ahb/decorder.v" into library work
+Analyzing Verilog file "E:/@RINKU@/m  STUDY MAT/VLSI/VERILOG/# SV and UVM CODING BY RAVI/naveen coding/amba_ahb/ahbarb.v" into library work
+Analyzing Verilog file "E:/@RINKU@/m  STUDY MAT/VLSI/VERILOG/# SV and UVM CODING BY RAVI/naveen coding/amba_ahb/test_sh.v" into library work
+WARNING:HDLCompiler:687 - "ham_4m.v" Line 21: Illegal redeclaration of module <ham>.
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 105344 KB
+Fuse CPU Usage: 514 ms
+Compiling module lfsr1(seed=4'b01)
+Compiling module lfsr1(seed=4'b010)
+Compiling module lfsr1(seed=4'b011)
+Compiling module lfsr1(seed=4'b0100)
+Compiling module ticket_manager
+Compiling module lottery_manager
+Compiling module random_no_gen
+Compiling module comparator_gen
+Compiling module arbiter
+Compiling module fuzzy_arbiter_him
+Compiling module ahbarb
+Compiling module decoder
+Compiling module hd_calcu_4m
+Compiling module ham
+Compiling module top_bus
+Compiling module AHB_MASTER
+Compiling module AHB_Slave
+Compiling module test_sh
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 4 sub-compilation(s) to finish...
+Compiled 19 Verilog Units
+Built simulation executable E:/@RINKU@/m  STUDY MAT/VLSI/VERILOG/# SV and UVM CODING BY RAVI/naveen coding/amba_ahb/test_sh_isim_beh.exe
+Fuse Memory Usage: 113324 KB
+Fuse CPU Usage: 1138 ms

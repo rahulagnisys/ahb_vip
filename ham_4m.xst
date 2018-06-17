@@ -1,0 +1,5 @@
+set -tmpdir "D:/XILINIX/amba_ahb/xst/projnav.tmp"
+set -xsthdpdir "D:/XILINIX/amba_ahb/xst"
+elaborate
+-ifn ham_4m.prj
+-ifmt mixed
